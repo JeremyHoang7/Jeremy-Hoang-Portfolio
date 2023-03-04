@@ -458,8 +458,8 @@ section{
                 font-size: 1.5rem;
                 color: var(--color-white);
                 margin-bottom: 1.5rem;
-                opacity: 0;
-                transform: scale(0);
+                opacity: 1;
+                transform: scale(1);
                 transition: all .4s ease-in-out;
             }
             .icons{
