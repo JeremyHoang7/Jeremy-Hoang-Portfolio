@@ -1,5 +1,8 @@
 # Jeremy-Hoang-Portfolio
 
+![image](https://user-images.githubusercontent.com/120407810/222929275-d5232ab4-1398-422d-8007-eb50d1cbe258.png)
+
+
 # User Story
 
 As an employer, I want to view a potential employee's deployed portfolio of work samples so that I can review samples of their work and assess whether they're a good candidate for an open position.
